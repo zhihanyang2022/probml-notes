@@ -4,3 +4,4 @@ Topics in order:
 - Bayesian linear regression with unknown noise precision
 - Empirical Bayes
 - Variational Bayes (including automatic relevance detection)
+- Stochastic gradient variational Bayes (using PyTorch)
